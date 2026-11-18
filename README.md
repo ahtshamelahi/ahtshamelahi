@@ -6,7 +6,6 @@
 <p>
   Computer Science student at <b>COMSATS University Islamabad, Lahore Campus</b>,
   pursuing a Bachelor's degree in Computer Science.
-  Interested in software engineering, Artificial Intelligence and Machine Learning.
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=480&lines=Software+Development;Artificial+Intelligence;Machine+Learning;Full-Stack+Development" />
